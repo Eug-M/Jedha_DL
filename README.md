@@ -1,5 +1,5 @@
 # Jedha_DL
-un exercice de Deep Learning classification de texte
+un exercice de Deep Learning : classification de texte
 
 ## Structure des dossiers
 
